@@ -1,0 +1,163 @@
+@media only screen and (max-width:1200px){
+    .navbar-menu ul{
+        flex-direction: column;
+    }
+
+    /* .navbar{
+        transition: all 0.3s ease-out;
+    } */
+
+    .navbar-a{
+        flex-direction: column;
+    }
+
+    .servi-content{
+        flex-direction: column-reverse;
+    }
+
+    .servi-content-left{
+        width: 80vw !important;
+        text-align: center;
+    }
+
+    .servi-content-right{
+        width: 80vw !important;
+    }
+
+    .left-head{
+        padding-right: 0 !important;
+        font-size: 40px !important;
+        /* text-align: center; */
+    }
+
+    .left-para{
+        padding-right: 0 !important;
+        /* text-align: center; */
+    }
+
+    .abou{
+        margin: 0 !important;
+    }
+
+    .abou-main{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .abou-left{
+        width: 80vw !important;
+    }
+
+    .abou-image{
+        width: 80vw !important;
+        height: 23vh !important;
+    }
+
+    .abou-image img{
+        height: 100% !important;
+    }
+
+    .abou-head{
+        text-align: center;
+    }
+
+    .abou-para{
+        text-align: center;
+    }
+
+    .abou-right{
+        text-align: center;
+    }
+
+    .service-bottom{
+        flex-direction: column;
+    }
+
+    .service-first{
+        padding: 0 !important;
+        border-top: 0 !important;
+        border-right: 0 !important;
+        text-align: center;
+        margin-bottom: 3vw;
+    }
+
+    .service-first-image{
+        width: 80vw !important;
+        margin: auto;
+    }
+
+    .choose-main{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .choose-left{
+        width: 80vw !important;
+    }
+
+    .choose-right{
+        width: 80vw !important;
+    }
+
+    .choose-right-a{
+        width: 80vw !important;
+    }
+
+    .case-slider-a{
+        flex-direction: column;
+    }
+
+    .slider-first{
+        margin-right: 0 !important;
+    }
+
+    .case-first-a{
+        width: 80vw !important;
+        margin: auto;
+    }
+
+    .case-second{
+        width: 60vw !important;
+        left: 20vw !important; 
+
+    }
+
+    .blogs-content-para{
+        font-size: 25px !important;
+    }
+
+    .contacts-main{
+        flex-direction: column;
+    }
+
+    .contacts-first{
+        margin-bottom: 10vw;
+    }
+
+    .contacts-second{
+        margin-bottom: 10vw;
+    }
+
+    .contacts-third{
+        margin-bottom: 10vw;
+    }
+
+    .contacts-fourth input{
+        width: 80vw;
+    }
+
+    .burger{
+        display:block !important;
+    }
+
+    .h-resp{
+        height: 39px;
+        transition: all 0.3s ease-out;
+       
+    }
+
+    .v-resp{
+        opacity: 0;
+       
+    }
+}
